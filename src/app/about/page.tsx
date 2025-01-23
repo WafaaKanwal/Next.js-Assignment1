@@ -21,9 +21,9 @@ export default async function About() {
         <div className="relative z-10 flex items-center justify-center w-1/2 h-full"> {/* Paragraph container */}
           <p className="p-10 bg-white bg-opacity-80 rounded-lg text-xl text-center">
             At WK Beauty Salon, we believe that beauty is not just about appearance— 
-            it's about confidence, self-expression, and self-care. Our salon is a sanctuary 
+            it&apos;s about confidence, self-expression, and self-care. Our salon is a sanctuary 
             where expert stylists and beauty professionals provide personalized services 
-            tailored to your unique needs. Whether it’s a fresh hairstyle, rejuvenating 
+            tailored to your unique needs. Whether it&apos;s a fresh hairstyle, rejuvenating 
             skincare, or elegant makeup, we are dedicated to enhancing your natural beauty. 
             With a focus on quality, creativity, and the latest trends, WK Beauty Salon 
             offers a luxurious and relaxing environment where you can unwind and leave 
