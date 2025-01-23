@@ -10,7 +10,7 @@ export default function ErrorPage() {
           Oops!
         </h1>
         <p className="text-lg text-[#6b4f1d]">
-          Something went wrong. We couldn't find the page you were looking for.
+          Something went wrong. We couldn&apos;t find the page you were looking for.
         </p>
         <br />
         <Link href="/" passHref>
